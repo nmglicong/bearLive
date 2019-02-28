@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="ilivesdk-1.3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/wup-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/mobilepb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/qavsdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/tls_sdk.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/qalsdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/beacon_android_v1.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/soload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/imsdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.tencent.ilivesdk/ilivesdk/1.3.3/jars/libs/bugly_2.4.0_imsdk_release.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.ilivesdk/ilivesdk/1.3.3/aae3a816d985f239d9c3719aaf297c4396e2153f/ilivesdk-1.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

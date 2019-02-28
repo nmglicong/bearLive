@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="qiniu-android-sdk-7.3.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.qiniu/qiniu-android-sdk/7.3.9/194ddc51bf621c8e0f7f3bda1047c25e2ee0e74c/qiniu-android-sdk-7.3.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.qiniu/qiniu-android-sdk/7.3.9/3e3a3168ca9874d4282aae5886f320573334d5e5/qiniu-android-sdk-7.3.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

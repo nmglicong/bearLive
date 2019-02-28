@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:web="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  
+  <!--servlet定义-->
+  <servlet>
+  <!-- servlet名字 -->
+    <servlet-name>RoomServlet</servlet-name> 
+	<!-- servlet实现的类-->
+    <servlet-class>imooc.bear.live.RoomServlet</servlet-class>
+  </servlet>
+  
+  <!--servlet映射-->
+  <servlet-mapping>
+  <!--servlet名字-->
+    <servlet-name>RoomServlet</servlet-name>
+  <!--访问servlet 的url地址-->
+    <url-pattern>/roomServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
